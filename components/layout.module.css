@@ -1,0 +1,18 @@
+.main {
+  display: flex;
+  height: calc(100vh - 64px);
+  background-color: white;
+  
+}
+
+@font-face {
+  font-family: 'Beausite Classic';
+  src: url("/fonts/Webfonts/BeausiteClassicWeb-Black.woff2");
+  format: ("woff2");
+  font-display: swap;
+}
+/* 
+.main > section {
+   padding: 0 32px 32px 32px;
+   
+} */
